@@ -6,6 +6,15 @@ Versioning follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [1.2.0] – 2026-03-10
+
+### Added
+- **Customizable mapping prefix** — Introduced `g:claude_code_map_extended_prefix` (defaults to `<Leader>c`) allowing users to move all Claude-related keybindings to a custom prefix to avoid conflicts (#17).
+- **README documentation** — Updated documentation to reflect the new configuration options.
+
+### Fixed
+- **Code cleanliness** — Removed stray syntax artifacts (stray quotes) in the plugin entry point.
+
 ## [1.1.0] – 2026-02-25
 
 ### Changed
