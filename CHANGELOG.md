@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/rishi-opensource/vim-claude-code/compare/v1.2.0...v1.3.0) (2026-03-19)
+
+
+### Bug Fixes
+
+* diff preview path resolution, stale triggers, and add accept/reject keybindings ([38378f3](https://github.com/rishi-opensource/vim-claude-code/commit/38378f3ba2c6f50888d9a074167bab8afa95a996))
+
+
+### Features
+
+* add diff preview for Claude Code edit suggestions ([73cb65d](https://github.com/rishi-opensource/vim-claude-code/commit/73cb65d87011b1bbeb50f1f77d7c0ec3b6327e13))
+
 # Changelog
 
 All notable changes to vim-claude-code are documented here.
