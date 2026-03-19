@@ -21,7 +21,7 @@ A Vim plugin that integrates the [Claude Code](https://docs.anthropic.com/en/doc
 ![vim-claude-code highlight reel](assets/00-highlight-reel.gif)
 
 > **Key features in one clip** — toggle, fix, test generation, explain, git workflow, command discovery, and refactor.
-> See [DEMO.md](DEMO.md) for individual walkthroughs of other features.
+> See [DEMO.md](doc/DEMO.md) for individual walkthroughs of other features.
 
 ## Requirements
 
@@ -306,6 +306,10 @@ printed to the message area. Disable again with `let g:claude_code_debug = 0`.
 - Official Neovim support
 - Improved terminal/window handling
 - Floating window UI (Neovim)
+
+## Releases
+
+This project utilizes [semantic-release](https://github.com/semantic-release/semantic-release) for automated versioning and changelog generation. For details on how commit messages trigger releases, see [doc/RELEASING.md](doc/RELEASING.md).
 
 ## License
 
