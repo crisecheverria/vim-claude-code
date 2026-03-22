@@ -1,3 +1,19 @@
+# 1.0.0 (2026-03-22)
+
+
+### Bug Fixes
+
+* align python diff trigger naming with vimscript expectations ([#21](https://github.com/crisecheverria/vim-claude-code/issues/21)) ([97f29b6](https://github.com/crisecheverria/vim-claude-code/commit/97f29b675f7342da90855ede6f866c32b2ad2a08))
+* ci fix ([9919c73](https://github.com/crisecheverria/vim-claude-code/commit/9919c738feb6bcb51587b3fc5b4b0264642a32b6))
+* claude window scroll issue ([c492ad8](https://github.com/crisecheverria/vim-claude-code/commit/c492ad8232b5414550b8b79b56b96cba588275b7))
+* diff preview path resolution, stale triggers, and add accept/reject keybindings ([38378f3](https://github.com/crisecheverria/vim-claude-code/commit/38378f3ba2c6f50888d9a074167bab8afa95a996))
+
+
+### Features
+
+* add diff preview for Claude Code edit suggestions ([73cb65d](https://github.com/crisecheverria/vim-claude-code/commit/73cb65d87011b1bbeb50f1f77d7c0ec3b6327e13))
+* add tmux-like zoom (maximize) toggle for terminal ([#23](https://github.com/crisecheverria/vim-claude-code/issues/23)) ([f7161c6](https://github.com/crisecheverria/vim-claude-code/commit/f7161c651a3126ae546e2f7ba5c9fd315152f6fa))
+
 # [1.4.0](https://github.com/rishi-opensource/vim-claude-code/compare/v1.3.1...v1.4.0) (2026-03-19)
 
 
